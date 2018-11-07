@@ -51,3 +51,4 @@ if __name__ == '__main__':
     main()
 
 # I am up to the part of chapter 2 where he defines map_width, etc.
+# This is a test edit on 8 November 2018, to see if GitHub for Desktop highlights this new change made locally.
